@@ -38,7 +38,7 @@ function App() {
           <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>Earth</li>
           <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>Video</li>
           <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>Live</li>
-          <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>Audio</li>
+          <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>MP3</li>
           <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>Weather</li>
           <li className='border-b border-black pt-6 text-xl hover:bg-slate-200'>Newsletter</li>
         </ul>
